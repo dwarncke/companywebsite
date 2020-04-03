@@ -1,12 +1,9 @@
 @import "bootstrap";
 
 .hero {
-  background: image_url('oldpeople.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 370px;
+  background: image_url('website2.jpg') no-repeat center center fixed;
+  width: 100vw;
+  height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar {
@@ -17,3 +14,4 @@ h1, h2, h3, h4, h5, h6, .navbar {
   color: white;
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
 }
+
